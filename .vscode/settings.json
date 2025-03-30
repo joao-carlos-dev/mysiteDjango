@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./mysite"
+    ],
+    "python.testing.pytestArgs": [
+        "env"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
